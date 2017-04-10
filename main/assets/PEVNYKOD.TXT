@@ -1,0 +1,4 @@
+"00001","a","premáva v S a +";
+"00002","L","Prázdninový cestovný poriadok";
+"00003","X","premáva v pracovné dni";
+"00004","x","zastávka na znamení";
